@@ -6,6 +6,7 @@ const app = express();
 
 //npm i cors LOLLD
 //1ST cOMMIT
+//2nd Commit
 
 app.use(cors());
 app.use(express.json());
