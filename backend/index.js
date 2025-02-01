@@ -6,7 +6,7 @@ const app = express();
 
 //npm i cors sza
 //sza 1
-
+//sza 2
 
 
 app.use(cors());
