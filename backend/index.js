@@ -4,9 +4,8 @@ import cors from "cors";
 
 const app = express();
 
-//npm i cors LOLLD
-//1ST cOMMIT
-//2nd Commit
+//npm i cors sza
+
 
 app.use(cors());
 app.use(express.json());
