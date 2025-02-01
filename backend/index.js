@@ -5,6 +5,8 @@ import cors from "cors";
 const app = express();
 
 //npm i cors sza
+//sza 1
+
 
 
 app.use(cors());
