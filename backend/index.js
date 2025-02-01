@@ -4,7 +4,7 @@ import cors from "cors";
 
 const app = express();
 
-//npm i cors HAHAHAHA
+//npm i cors LOLL
 app.use(cors());
 app.use(express.json());
 
